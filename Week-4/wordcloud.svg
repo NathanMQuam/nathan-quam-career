@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="900">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css2?family=Roboto:wght@400&amp;display=swap); </style>
+</defs>
+<g>
+<g transform="translate(800,452) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="96.1291px" font-style="normal" font-weight="normal" x="-276.5326843261719" y="-38.45163" text-anchor="start" dominant-baseline="alphabetic">development</text>
+</g>
+<g transform="translate(796,368) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="88.1183px" font-style="normal" font-weight="normal" x="-74.88058471679688" y="-35.247327500000004" text-anchor="start" dominant-baseline="alphabetic">SEL</text>
+</g>
+<g transform="translate(788,516) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="80.1076px" font-style="normal" font-weight="normal" x="-193.52284240722656" y="-32.043025" text-anchor="start" dominant-baseline="alphabetic">experience</text>
+</g>
+<g transform="translate(800,576) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="72.0968px" font-style="normal" font-weight="normal" x="-175.56094360351562" y="-28.838722500000003" text-anchor="start" dominant-baseline="alphabetic">Experience</text>
+</g>
+<g transform="translate(800,288) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="72.0968px" font-style="normal" font-weight="normal" x="-78.10921478271484" y="-28.838722500000003" text-anchor="start" dominant-baseline="alphabetic">work</text>
+</g>
+<g transform="translate(796,628) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="64.0861px" font-style="normal" font-weight="normal" x="-112.85963439941406" y="-25.634420000000002" text-anchor="start" dominant-baseline="alphabetic">working</text>
+</g>
+<g transform="translate(796,684) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="64.0861px" font-style="normal" font-weight="normal" x="-129.16122436523438" y="-25.634420000000002" text-anchor="start" dominant-baseline="alphabetic">including</text>
+</g>
+<g transform="translate(992,588) rotate(75.87174139932897,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="64.0861px" font-style="normal" font-weight="normal" x="-157.52474975585938" y="-25.634420000000002" text-anchor="start" dominant-baseline="alphabetic">Knowledge</text>
+</g>
+<g transform="translate(660,380) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="64.0861px" font-style="normal" font-weight="normal" x="-59.02680969238281" y="-25.634420000000002" text-anchor="start" dominant-baseline="alphabetic">web</text>
+</g>
+<g transform="translate(924,376) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="56.0753px" font-style="normal" font-weight="normal" x="-51.38836669921875" y="-22.4301175" text-anchor="start" dominant-baseline="alphabetic">new</text>
+</g>
+<g transform="translate(904,336) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="56.0753px" font-style="normal" font-weight="normal" x="-63.831626892089844" y="-22.4301175" text-anchor="start" dominant-baseline="alphabetic">team</text>
+</g>
+<g transform="translate(728,232) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="56.0753px" font-style="normal" font-weight="normal" x="-109.730712890625" y="-22.4301175" text-anchor="start" dominant-baseline="alphabetic">software</text>
+</g>
+<g transform="translate(796,736) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="56.0753px" font-style="normal" font-weight="normal" x="-113.12557983398438" y="-22.4301175" text-anchor="start" dominant-baseline="alphabetic">technical</text>
+</g>
+<g transform="translate(640,320) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="56.0753px" font-style="normal" font-weight="normal" x="-76.35702514648438" y="-22.4301175" text-anchor="start" dominant-baseline="alphabetic">digital</text>
+</g>
+<g transform="translate(528,472) rotate(10.09060497484042,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="48.0645px" font-style="normal" font-weight="normal" x="-59.61738586425781" y="-19.225815" text-anchor="start" dominant-baseline="alphabetic">Boise</text>
+</g>
+<g transform="translate(796,772) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="48.0645px" font-style="normal" font-weight="normal" x="-90.18287658691406" y="-19.225815" text-anchor="start" dominant-baseline="alphabetic">systems</text>
+</g>
+<g transform="translate(504,540) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="48.0645px" font-style="normal" font-weight="normal" x="-117.74462127685547" y="-19.225815" text-anchor="start" dominant-baseline="alphabetic">technology</text>
+</g>
+<g transform="translate(640,608) rotate(-19.047311971952514,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="40.0538px" font-style="normal" font-weight="normal" x="-43.80467987060547" y="-16.0215125" text-anchor="start" dominant-baseline="alphabetic">code</text>
+</g>
+<g transform="translate(644,272) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="40.0538px" font-style="normal" font-weight="normal" x="-71.97459411621094" y="-16.0215125" text-anchor="start" dominant-baseline="alphabetic">projects</text>
+</g>
+<g transform="translate(772,192) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="40.0538px" font-style="normal" font-weight="normal" x="-50.8544921875" y="-16.0215125" text-anchor="start" dominant-baseline="alphabetic">React</text>
+</g>
+<g transform="translate(1048,360) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="40.0538px" font-style="normal" font-weight="normal" x="-71.7105941772461" y="-16.0215125" text-anchor="start" dominant-baseline="alphabetic">position</text>
+</g>
+<g transform="translate(1104,488) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="40.0538px" font-style="normal" font-weight="normal" x="-61.16032409667969" y="-16.0215125" text-anchor="start" dominant-baseline="alphabetic">testing</text>
+</g>
+<g transform="translate(536,572) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-86.92098999023438" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">applications</text>
+</g>
+<g transform="translate(952,596) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-36.30311584472656" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">skills</text>
+</g>
+<g transform="translate(956,628) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-42.709556579589844" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">within</text>
+</g>
+<g transform="translate(668,640) rotate(-84.76690525253034,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-46.964866638183594" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">Strong</text>
+</g>
+<g transform="translate(744,452) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-30.21739959716797" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">may</text>
+</g>
+<g transform="translate(1132,532) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-91.5517578125" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">technologies</text>
+</g>
+<g transform="translate(536,644) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-94.20349884033203" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">requirements</text>
+</g>
+<g transform="translate(480,604) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-102.40906524658203" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">understanding</text>
+</g>
+<g transform="translate(1036,324) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-64.82307434082031" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">preferred</text>
+</g>
+<g transform="translate(476,492) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-65.44886779785156" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">practices</text>
+</g>
+<g transform="translate(648,452) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="32.043px" font-style="normal" font-weight="normal" x="-55.381614685058594" y="-12.817210000000001" text-anchor="start" dominant-baseline="alphabetic">website</text>
+</g>
+<g transform="translate(956,288) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-80.84893798828125" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">documentation</text>
+</g>
+<g transform="translate(804,364) rotate(-0.18866533769861404,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-55.381614685058594" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Familiarity</text>
+</g>
+<g transform="translate(544,344) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-55.66908264160156" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Typescript</text>
+</g>
+<g transform="translate(900,440) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-71.99610137939453" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">programming</text>
+</g>
+<g transform="translate(1124,560) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-73.20464324951172" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">implementing</text>
+</g>
+<g transform="translate(788,512) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-16.57928466796875" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">etc</text>
+</g>
+<g transform="translate(1068,444) rotate(0.927406995429321,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-36.98951721191406" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">project</text>
+</g>
+<g transform="translate(628,720) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-57.76348876953125" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">knowledge</text>
+</g>
+<g transform="translate(972,648) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-41.154869079589844" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">product</text>
+</g>
+<g transform="translate(616,752) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-87.68949890136719" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">REQUIREMENTS</text>
+</g>
+<g transform="translate(940,512) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-49.262657165527344" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">company</text>
+</g>
+<g transform="translate(964,752) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-73.24569702148438" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Qualifications</text>
+</g>
+<g transform="translate(472,424) rotate(-35.9152421681116,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-51.773597717285156" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">principles</text>
+</g>
+<g transform="translate(1088,496) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-55.146934509277344" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">processes</text>
+</g>
+<g transform="translate(792,792) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-47.860496520996094" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">business</text>
+</g>
+<g transform="translate(684,164) rotate(-1.6168789739021632,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-36.220985412597656" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">writing</text>
+</g>
+<g transform="translate(516,368) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-34.96549987792969" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Create</text>
+</g>
+<g transform="translate(532,320) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-35.434844970703125" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Liiingo</text>
+</g>
+<g transform="translate(964,672) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-35.428977966308594" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">quality</text>
+</g>
+<g transform="translate(568,664) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-60.71441650390625" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">restaurants</text>
+</g>
+<g transform="translate(712,632) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-30.36602020263672" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">home</text>
+</g>
+<g transform="translate(956,704) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-43.58954620361328" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">markets</text>
+</g>
+<g transform="translate(876,784) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-32.57776641845703" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">e-mail</text>
+</g>
+<g transform="translate(964,728) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-49.45622253417969" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Preferred</text>
+</g>
+<g transform="translate(1116,584) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-58.02162170410156" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Participate</text>
+</g>
+<g transform="translate(664,784) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-61.24830627441406" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">opportunity</text>
+</g>
+<g transform="translate(564,684) rotate(-0.20990762915797748,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-55.03546905517578" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Bachelor's</text>
+</g>
+<g transform="translate(1128,608) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-62.36297607421875" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">engineering</text>
+</g>
+<g transform="translate(1096,408) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-28.617752075195312" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">apply</text>
+</g>
+<g transform="translate(552,264) rotate(-52.55622116389862,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-32.935638427734375" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Ability</text>
+</g>
+<g transform="translate(996,776) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-83.51829528808594" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">communication</text>
+</g>
+<g transform="translate(616,204) rotate(-83.44638431304689,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-25.97186279296875" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">build</text>
+</g>
+<g transform="translate(1004,540) rotate(-85.2757120115043,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-20.222503662109375" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Job</text>
+</g>
+<g transform="translate(1092,668) rotate(78.21031025092282,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-57.96881866455078" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">developing</text>
+</g>
+<g transform="translate(408,560) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-38.995933532714844" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">looking</text>
+</g>
+<g transform="translate(1124,640) rotate(52.54211540987497,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-29.09294891357422" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">small</text>
+</g>
+<g transform="translate(624,184) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-36.32072448730469" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">mobile</text>
+</g>
+<g transform="translate(476,692) rotate(26.482154928141963,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-62.826446533203125" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">Engineering</text>
+</g>
+<g transform="translate(556,776) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-42.93248748779297" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">multiple</text>
+</g>
+<g transform="translate(744,512) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-23.22624969482422" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">best</text>
+</g>
+<g transform="translate(1212,572) rotate(65.55312224981719,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-44.3170166015625" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">services</text>
+</g>
+<g transform="translate(1176,640) rotate(25.141395360029573,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-49.10424041748047" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">solutions</text>
+</g>
+<g transform="translate(568,496) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-23.72492218017578" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">PHP</text>
+</g>
+<g transform="translate(1176,680) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="24.0323px" font-style="normal" font-weight="normal" x="-55.28187561035156" y="-9.6129075" text-anchor="start" dominant-baseline="alphabetic">languages</text>
+</g>
+<g transform="translate(856,508) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-23.38855743408203" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Follow</text>
+</g>
+<g transform="translate(896,252) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-21.82410430908203" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">safety</text>
+</g>
+<g transform="translate(808,324) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-12.969314575195312" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">can</text>
+</g>
+<g transform="translate(524,256) rotate(-59.23171811555459,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-28.606002807617188" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">solution</text>
+</g>
+<g transform="translate(456,612) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-37.94578552246094" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">implement</text>
+</g>
+<g transform="translate(756,148) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-27.291854858398438" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">delivery</text>
+</g>
+<g transform="translate(1100,364) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-35.07501220703125" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Principles</text>
+</g>
+<g transform="translate(764,572) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-24.687034606933594" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Proven</text>
+</g>
+<g transform="translate(808,300) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-13.395622253417969" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">unit</text>
+</g>
+<g transform="translate(724,684) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-25.273719787597656" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Google</text>
+</g>
+<g transform="translate(872,572) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-29.329551696777344" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">features</text>
+</g>
+<g transform="translate(800,628) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-13.626365661621094" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">rest</text>
+</g>
+<g transform="translate(1016,364) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-30.850975036621094" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">research</text>
+</g>
+<g transform="translate(952,788) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-38.63414764404297" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">automated</text>
+</g>
+<g transform="translate(404,640) rotate(-3.09621796769431,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-31.820953369140625" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">websites</text>
+</g>
+<g transform="translate(796,684) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-16.4345703125" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">food</text>
+</g>
+<g transform="translate(572,216) rotate(-38.672556704958055,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-20.658592224121094" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Cloud</text>
+</g>
+<g transform="translate(508,740) rotate(-57.05649125938108,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-32.85740661621094" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">concepts</text>
+</g>
+<g transform="translate(1152,720) rotate(-86.29738968187239,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-41.58313751220703" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Information</text>
+</g>
+<g transform="translate(860,204) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-19.71209716796875" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">today</text>
+</g>
+<g transform="translate(1016,664) rotate(-87.72632574476764,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-17.674400329589844" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">learn</text>
+</g>
+<g transform="translate(468,452) rotate(-39.76098109266758,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-14.224777221679688" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">JSP</text>
+</g>
+<g transform="translate(460,716) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-32.14167022705078" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">speaking</text>
+</g>
+<g transform="translate(864,684) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-21.86712646484375" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">duties</text>
+</g>
+<g transform="translate(500,380) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-24.02606201171875" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">efforts</text>
+</g>
+<g transform="translate(1192,700) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-39.13475799560547" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Company's</text>
+</g>
+<g transform="translate(660,324) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-18.323638916015625" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Work</text>
+</g>
+<g transform="translate(1092,756) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-35.28230285644531" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Computer</text>
+</g>
+<g transform="translate(424,700) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-31.089569091796875" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">GraphQL</text>
+</g>
+<g transform="translate(1012,260) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-25.946426391601562" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">various</text>
+</g>
+<g transform="translate(688,572) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-15.847908020019531" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">data</text>
+</g>
+<g transform="translate(996,600) rotate(60.67523580664039,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-18.15546417236328" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Must</text>
+</g>
+<g transform="translate(1056,284) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-15.093048095703125" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">help</text>
+</g>
+<g transform="translate(484,660) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-16.176429748535156" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">right</text>
+</g>
+<g transform="translate(1044,788) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-48.990821838378906" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">communicate</text>
+</g>
+<g transform="translate(1216,616) rotate(28.51488887481576,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-24.569725036621094" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">written</text>
+</g>
+<g transform="translate(632,764) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-29.435157775878906" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">success</text>
+</g>
+<g transform="translate(1184,736) rotate(-41.70010046954714,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-29.877113342285156" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">partners</text>
+</g>
+<g transform="translate(408,672) rotate(33.04567743420241,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-24.397621154785156" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Ensure</text>
+</g>
+<g transform="translate(576,436) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-15.30816650390625" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Find</text>
+</g>
+<g transform="translate(380,576) rotate(-81.33790153817647,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-19.18017578125" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">years</text>
+</g>
+<g transform="translate(388,620) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-24.378067016601562" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">degree</text>
+</g>
+<g transform="translate(812,572) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-11.846809387207031" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">B.S</text>
+</g>
+<g transform="translate(460,740) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-27.190162658691406" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Node.js</text>
+</g>
+<g transform="translate(1064,620) rotate(70.89495580798607,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-17.85040283203125" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Agile</text>
+</g>
+<g transform="translate(1196,580) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-17.71350860595703" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">grow</text>
+</g>
+<g transform="translate(704,140) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-22.7001953125" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Native</text>
+</g>
+<g transform="translate(548,700) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-18.835983276367188" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">every</text>
+</g>
+<g transform="translate(1120,540) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-21.100547790527344" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">check</text>
+</g>
+<g transform="translate(536,612) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-21.256996154785156" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">billion</text>
+</g>
+<g transform="translate(668,236) rotate(-11.816402444165364,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-11.850730895996094" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">will</text>
+</g>
+<g transform="translate(1164,500) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-17.963821411132812" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">state</text>
+</g>
+<g transform="translate(592,364) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-13.606819152832031" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">test</text>
+</g>
+<g transform="translate(604,700) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-16.97429656982422" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">risks</text>
+</g>
+<g transform="translate(1080,688) rotate(76.20889658026279,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-30.287796020507812" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">enhance</text>
+</g>
+<g transform="translate(1112,776) rotate(-18.509662833267612,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-12.644676208496094" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">Full</text>
+</g>
+<g transform="translate(896,236) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="16.0215px" font-style="normal" font-weight="normal" x="-15.824432373046875" y="-6.4086050000000006" text-anchor="start" dominant-baseline="alphabetic">time</text>
+</g>
+<g transform="translate(400,568) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-15.928062438964844" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">reliability</text>
+</g>
+<g transform="translate(520,424) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.558624267578125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">display</text>
+</g>
+<g transform="translate(1184,480) rotate(44.847239339688144,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-18.155441284179688" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">reputation</text>
+</g>
+<g transform="translate(840,176) rotate(46.67141648670542,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.3890380859375" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">integrity</text>
+</g>
+<g transform="translate(624,568) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.92431640625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">e-mails</text>
+</g>
+<g transform="translate(708,504) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.045181274414062" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">lives</text>
+</g>
+<g transform="translate(792,424) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.486808776855469" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">extreme</text>
+</g>
+<g transform="translate(600,576) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.953277587890625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Able</text>
+</g>
+<g transform="translate(672,680) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.109390258789062" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">enabled</text>
+</g>
+<g transform="translate(400,464) rotate(-51.88394124952114,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-19.807907104492188" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">individually</text>
+</g>
+<g transform="translate(1072,536) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-13.043617248535156" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">electric</text>
+</g>
+<g transform="translate(1028,716) rotate(48.269080218558685,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.897651672363281" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Willing</text>
+</g>
+<g transform="translate(1092,376) rotate(23.604056916447878,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.825996398925781" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Focus</text>
+</g>
+<g transform="translate(1040,264) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-22.739273071289062" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">personalized</text>
+</g>
+<g transform="translate(876,216) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-16.49908447265625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">industrial</text>
+</g>
+<g transform="translate(584,784) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-20.885406494140625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Opportunity</text>
+</g>
+<g transform="translate(508,408) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-17.451431274414062" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">app.We're</text>
+</g>
+<g transform="translate(708,320) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.873634338378906" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Equal</text>
+</g>
+<g transform="translate(544,536) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-15.057838439941406" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">blocking</text>
+</g>
+<g transform="translate(656,536) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.245735168457031" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">earned</text>
+</g>
+<g transform="translate(784,440) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-5.09033203125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">via</text>
+</g>
+<g transform="translate(860,272) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.63507080078125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">utility</text>
+</g>
+<g transform="translate(796,152) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.12786865234375" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">TECH</text>
+</g>
+<g transform="translate(872,624) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.232048034667969" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">culture</text>
+</g>
+<g transform="translate(900,264) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.7490234375" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">deploy</text>
+</g>
+<g transform="translate(624,228) rotate(-25.887666860245538,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.044303894042969" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">ensure</text>
+</g>
+<g transform="translate(776,400) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.448738098144531" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Low</text>
+</g>
+<g transform="translate(552,280) rotate(-47.69730346312508,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-17.838645935058594" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">autonomy</text>
+</g>
+<g transform="translate(832,400) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-5.980110168457031" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">live</text>
+</g>
+<g transform="translate(368,520) rotate(46.493139338563495,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.3027801513671875" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">day</text>
+</g>
+<g transform="translate(920,624) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.4373779296875" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">fastest</text>
+</g>
+<g transform="translate(704,228) rotate(10.076061123608016,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.535331726074219" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">cities</text>
+</g>
+<g transform="translate(1132,448) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.041275024414062" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">tight</text>
+</g>
+<g transform="translate(928,680) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-13.147254943847656" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">making</text>
+</g>
+<g transform="translate(1124,376) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.279853820800781" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">High</text>
+</g>
+<g transform="translate(560,720) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-15.525215148925781" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Platform</text>
+</g>
+<g transform="translate(800,536) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-5.3954010009765625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Inc</text>
+</g>
+<g transform="translate(612,320) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.554168701171875" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">future</text>
+</g>
+<g transform="translate(896,440) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.965385437011719" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">system</text>
+</g>
+<g transform="translate(852,440) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.706169128417969" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">want</text>
+</g>
+<g transform="translate(876,784) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-16.93126678466797" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Company</text>
+</g>
+<g transform="translate(684,760) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.312919616699219" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Award</text>
+</g>
+<g transform="translate(624,152) rotate(-20.889517599076516,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.373390197753906" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Winning</text>
+</g>
+<g transform="translate(1108,416) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.494956970214844" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">offer</text>
+</g>
+<g transform="translate(1112,320) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.387077331542969" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">updates</text>
+</g>
+<g transform="translate(824,496) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.712730407714844" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">sure</text>
+</g>
+<g transform="translate(1004,424) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.720390319824219" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">sends</text>
+</g>
+<g transform="translate(528,752) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.974784851074219" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">filter</text>
+</g>
+<g transform="translate(800,552) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.537445068359375" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">just</text>
+</g>
+<g transform="translate(1184,656) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.505828857421875" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">skillset</text>
+</g>
+<g transform="translate(1112,736) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-20.62335205078125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">responsible</text>
+</g>
+<g transform="translate(920,472) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.9422454833984375" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">fast</text>
+</g>
+<g transform="translate(764,768) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.279670715332031" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Server</text>
+</g>
+<g transform="translate(392,488) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.746894836425781" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">possibly</text>
+</g>
+<g transform="translate(932,440) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-17.86602020263672" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">managers</text>
+</g>
+<g transform="translate(1172,712) rotate(-60.48513180146582,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.666175842285156" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">receive</text>
+</g>
+<g transform="translate(912,416) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.701713562011719" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">bug</text>
+</g>
+<g transform="translate(440,536) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.599685668945312" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">feature</text>
+</g>
+<g transform="translate(660,496) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-16.432579040527344" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">response</text>
+</g>
+<g transform="translate(552,780) rotate(-4.550697017612823,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.350242614746094" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">fixes</text>
+</g>
+<g transform="translate(1028,648) rotate(-82.81948571805397,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.584220886230469" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">initial</text>
+</g>
+<g transform="translate(460,752) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.741905212402344" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">SPAM</text>
+</g>
+<g transform="translate(676,696) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.706001281738281" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">please</text>
+</g>
+<g transform="translate(964,264) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.801284790039062" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">make</text>
+</g>
+<g transform="translate(516,776) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-18.591537475585938" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">advantage</text>
+</g>
+<g transform="translate(712,400) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-13.923591613769531" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">express</text>
+</g>
+<g transform="translate(652,512) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.793464660644531" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">many</text>
+</g>
+<g transform="translate(472,696) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-15.044136047363281" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">different</text>
+</g>
+<g transform="translate(480,536) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-22.07830810546875" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">empowering</text>
+</g>
+<g transform="translate(1084,280) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.190444946289062" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Client</text>
+</g>
+<g transform="translate(1124,648) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.985099792480469" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">junior</text>
+</g>
+<g transform="translate(992,704) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-15.384414672851562" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">engaged</text>
+</g>
+<g transform="translate(1224,680) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.454971313476562" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">around</text>
+</g>
+<g transform="translate(1020,396) rotate(-82.51058181521915,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.681449890136719" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">goal</text>
+</g>
+<g transform="translate(400,680) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.013557434082031" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Delivery</text>
+</g>
+<g transform="translate(420,720) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.591323852539062" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Ghost</text>
+</g>
+<g transform="translate(620,400) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.183868408203125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">teams</text>
+</g>
+<g transform="translate(1016,728) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-13.651786804199219" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">number</text>
+</g>
+<g transform="translate(500,288) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.35791015625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">States</text>
+</g>
+<g transform="translate(972,400) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.571052551269531" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">proper</text>
+</g>
+<g transform="translate(988,488) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.940132141113281" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">eaten</text>
+</g>
+<g transform="translate(912,400) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.465087890625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Yes</text>
+</g>
+<g transform="translate(916,560) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.794166564941406" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">page</text>
+</g>
+<g transform="translate(676,596) rotate(9.125713279390737,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.395942687988281" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Half</text>
+</g>
+<g transform="translate(628,608) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.847511291503906" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">meals</text>
+</g>
+<g transform="translate(1212,624) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.340476989746094" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">lines</text>
+</g>
+<g transform="translate(776,384) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.796821594238281" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">area</text>
+</g>
+<g transform="translate(728,568) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.706878662109375" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">built</text>
+</g>
+<g transform="translate(1224,528) rotate(72.95913039689715,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.103691101074219" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">estate</text>
+</g>
+<g transform="translate(1072,448) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.873458862304688" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">partner</text>
+</g>
+<g transform="translate(1232,640) rotate(68.09474310572165,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.419769287109375" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Europe</text>
+</g>
+<g transform="translate(572,232) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.442695617675781" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">portal</text>
+</g>
+<g transform="translate(660,560) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.737449645996094" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">apps</text>
+</g>
+<g transform="translate(1060,496) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-18.17303466796875" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">restaurant</text>
+</g>
+<g transform="translate(776,624) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.826171875" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">fleet</text>
+</g>
+<g transform="translate(544,212) rotate(-62.83208907118575,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.073806762695312" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">good</text>
+</g>
+<g transform="translate(800,368) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-5.4951324462890625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">set</text>
+</g>
+<g transform="translate(920,536) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.0106964111328125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">skill</text>
+</g>
+<g transform="translate(1188,536) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.933006286621094" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">rapid</text>
+</g>
+<g transform="translate(752,296) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.783843994140625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Use</text>
+</g>
+<g transform="translate(688,264) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.99542236328125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">money</text>
+</g>
+<g transform="translate(1032,472) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-4.493888854980469" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Fit</text>
+</g>
+<g transform="translate(864,360) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.590240478515625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">real</text>
+</g>
+<g transform="translate(552,400) rotate(19.11748125169825,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-5.808021545410156" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">fun</text>
+</g>
+<g transform="translate(484,300) rotate(73.1614497162312,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.914161682128906" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Paid</text>
+</g>
+<g transform="translate(832,384) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.525001525878906" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">year</text>
+</g>
+<g transform="translate(728,312) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.5491790771484375" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Pay</text>
+</g>
+<g transform="translate(752,368) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-5.723930358886719" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">per</text>
+</g>
+<g transform="translate(776,264) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.0850067138671875" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">One</text>
+</g>
+<g transform="translate(1000,576) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.941535949707031" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">shift</text>
+</g>
+<g transform="translate(520,488) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-13.033805847167969" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">servers</text>
+</g>
+<g transform="translate(728,272) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.2629547119140625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">love</text>
+</g>
+<g transform="translate(564,192) rotate(-57.53881934157849,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.067771911621094" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Energy</text>
+</g>
+<g transform="translate(812,768) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-19.915451049804688" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">consumers</text>
+</g>
+<g transform="translate(828,672) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.251754760742188" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">parts</text>
+</g>
+<g transform="translate(676,172) rotate(-38.721691245082276,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.721809387207031" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">rules</text>
+</g>
+<g transform="translate(764,672) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.6695556640625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">cause</text>
+</g>
+<g transform="translate(952,624) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.565017700195312" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">propose</text>
+</g>
+<g transform="translate(1004,320) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-16.01995849609375" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">oversees</text>
+</g>
+<g transform="translate(924,592) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.127159118652344" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">meets</text>
+</g>
+<g transform="translate(1028,672) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.337799072265625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">order</text>
+</g>
+<g transform="translate(572,568) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-16.438461303710938" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">concerns</text>
+</g>
+<g transform="translate(864,184) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.0563812255859375" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">like</text>
+</g>
+<g transform="translate(484,488) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-17.59809112548828" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">resources</text>
+</g>
+<g transform="translate(964,676) rotate(9.769918119096554,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.1925506591796875" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">root</text>
+</g>
+<g transform="translate(760,152) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.560569763183594" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">assess</text>
+</g>
+<g transform="translate(1140,768) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.7120361328125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">need</text>
+</g>
+<g transform="translate(720,360) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.075233459472656" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">well</text>
+</g>
+<g transform="translate(584,312) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-13.432762145996094" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">custom</text>
+</g>
+<g transform="translate(984,288) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-13.812126159667969" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">support</text>
+</g>
+<g transform="translate(736,784) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.861366271972656" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Web</text>
+</g>
+<g transform="translate(1080,384) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-13.538368225097656" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">content</text>
+</g>
+<g transform="translate(952,648) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.00518798828125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">across</text>
+</g>
+<g transform="translate(1112,496) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.195419311523438" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">process</text>
+</g>
+<g transform="translate(1112,304) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.568031311035156" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">flow</text>
+</g>
+<g transform="translate(712,496) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.6723785400390625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">app</text>
+</g>
+<g transform="translate(576,608) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.14849853515625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">assume</text>
+</g>
+<g transform="translate(376,504) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-5.991844177246094" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">IDE</text>
+</g>
+<g transform="translate(548,344) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.430252075195312" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">strong</text>
+</g>
+<g transform="translate(592,640) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-14.793830871582031" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">patterns</text>
+</g>
+<g transform="translate(388,536) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-9.701545715332031" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">using</text>
+</g>
+<g transform="translate(452,644) rotate(33.99505410894282,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.448028564453125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Java</text>
+</g>
+<g transform="translate(512,568) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-12.623161315917969" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">access</text>
+</g>
+<g transform="translate(1020,584) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-8.260299682617188" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">easy</text>
+</g>
+<g transform="translate(496,672) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-5.5420684814453125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">full</text>
+</g>
+<g transform="translate(1240,560) rotate(-17.494975312020223,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.2714996337890625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">city</text>
+</g>
+<g transform="translate(672,504) rotate(0,0,0)">
+<text fill="#021f59" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.186683654785156" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">part</text>
+</g>
+<g transform="translate(1048,744) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.566062927246094" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Dart</text>
+</g>
+<g transform="translate(1216,592) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-5.008201599121094" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">Git</text>
+</g>
+<g transform="translate(744,320) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.87896728515625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">gem</text>
+</g>
+<g transform="translate(436,488) rotate(0,0,0)">
+<text fill="#30588c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.01763916015625" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">power</text>
+</g>
+<g transform="translate(1128,688) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.4057159423828125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">SEO</text>
+</g>
+<g transform="translate(376,656) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-7.857452392578125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">DNS</text>
+</g>
+<g transform="translate(524,320) rotate(0,0,0)">
+<text fill="#03318c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-11.913284301757812" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">energy</text>
+</g>
+<g transform="translate(1088,584) rotate(0,0,0)">
+<text fill="#32628c" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-13.538360595703125" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">operate</text>
+</g>
+<g transform="translate(1044,288) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-10.407493591308594" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">seven</text>
+</g>
+<g transform="translate(984,448) rotate(0,0,0)">
+<text fill="#61a2ca" stroke="none" font-family="Roboto" font-size="8.01076px" font-style="normal" font-weight="normal" x="-6.615669250488281" y="-3.2043025000000003" text-anchor="start" dominant-baseline="alphabetic">one</text>
+</g>
+</g>
+</svg>
